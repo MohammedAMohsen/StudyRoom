@@ -12,13 +12,11 @@ The goal was not only to build a functional application, but also to gain a soli
 
 ## Home Page
 
-
 ![Home Page](README_IMAGES/home-page.png)
 
 ---
 
 ## Discussion Room
-
 
 ![Room Page](README_IMAGES/room-page.png)
 
@@ -26,8 +24,13 @@ The goal was not only to build a functional application, but also to gain a soli
 
 ## User Profile
 
-
 ![Profile Page](README_IMAGES/profile-page.png)
+
+---
+
+## User Profile
+
+![Profile Page](README_IMAGES/edit-profile.png)
 
 ---
 
@@ -39,7 +42,6 @@ The goal was not only to build a functional application, but also to gain a soli
 ---
 
 ## Password Reset
-
 
 ![Password Reset](README_IMAGES/password-reset.png)
 
