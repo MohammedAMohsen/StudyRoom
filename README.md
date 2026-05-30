@@ -28,7 +28,7 @@ The goal was not only to build a functional application, but also to gain a soli
 
 ---
 
-## User Profile
+## Edit user information
 
 ![Profile Page](README_IMAGES/edit-profile.png)
 
